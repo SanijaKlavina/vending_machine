@@ -1,2 +1,2 @@
 # vending_machine
-Diemžēl neizpildīju uzd līdz galam jo nesapratu loģiku...:(
+Pildīju uzd. cik tālu sapratu - tālāk nesapratu loģiku. Labprāt to šodien izskatītu lekcijā.
